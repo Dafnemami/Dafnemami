@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dafne</h1>
-<h3 align="center">An industrial computer engineer with major in physics student that is constantly forgeting things and opening her google calendar to make sure everything she did not forget anything.</h3>
+<h3 align="center">An industrial computer engineer student with major in physics that is constantly forgeting things and opening her google calendar to make sure everything she did not forget anything.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dafnemami&label=Profile%20views&color=8ae234&style=flat" alt="dafnemami" /> </p>
 
