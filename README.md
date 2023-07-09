@@ -4,7 +4,7 @@
 <img align="right" alt="CompletoMyBeloved" width="400" src="https://media.tenor.com/ZrnZODhWBhgAAAAC/my-beloved-completo.gif">
 
 
-<h1 align="center"> <img src="https://komarev.com/ghpvc/?username=dafnemami&label=Profile%20views&color=f57900&style=flat"alt="dafnemami" /> </h1>
+<h1 align="left"> <img src="https://komarev.com/ghpvc/?username=dafnemami&label=Profile%20views&color=f57900&style=flat"alt="dafnemami" /> </h1>
 
 - 🔭 I’m currently working on [CERN - ITK Project](http://cds.cern.ch/record/2302625?ln=es)
 
@@ -19,6 +19,8 @@
 - 📄 To know about my experiences, check my [linkedin and CV](https://www.linkedin.com/in/dafne-arriagada-241350212/)
 
 - ⚡ Fun fact **I won a rock, paper, scissors tournament among 40 people.**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
