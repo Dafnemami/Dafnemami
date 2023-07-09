@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dafne</h1>
 <h3 align="center">An industrial computer engineer student with major in physics that is constantly forgeting things and opening her google calendar to make sure everything she did not forget anything.</h3>
 
-<h2 align="left"> <img src="https://komarev.com/ghpvc/?username=dafnemami&label=Profile%20views&color=8ae234&style=flat" alt="dafnemami" /> </h2>
+<img align="center" alt="CompletoMyBeloved" width="400" src="https://media.tenor.com/ZrnZODhWBhgAAAAC/my-beloved-completo.gif">
+
+
+<h1 align="center"> <img src="https://komarev.com/ghpvc/?username=dafnemami&label=Profile%20views&color=f57900&style=flat"alt="dafnemami" /> </h1>
 
 - 🔭 I’m currently working on [CERN - ITK Project](http://cds.cern.ch/record/2302625?ln=es)
 
