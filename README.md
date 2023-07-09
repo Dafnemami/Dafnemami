@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dafne.arriagada@uc.cl**
 
-- 📄 Know about my experiences [In my linkedin you can find my CV](In my linkedin you can find my CV)
+- 📄 To know about my experiences, check my [linkedin and CV](https://www.linkedin.com/in/dafne-arriagada-241350212/)
 
 - ⚡ Fun fact **I won a rock, paper, scissors tournament among 40 people.**
 
