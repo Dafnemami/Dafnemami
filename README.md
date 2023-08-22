@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dafne</h1>
-<h3 align="center">An industrial computer engineer student with major in physics that is constantly forgeting things and opening her google calendar to make sure everything she did not forget anything.</h3>
+<h3 align="center">An industrial computer engineer student with major in physics that constantly forgets things and trust her google calendar as if her life depends on that</h3>
 
 <img align="right" alt="CompletoMyBeloved" width="400" src="https://media.tenor.com/ZrnZODhWBhgAAAAC/my-beloved-completo.gif">
 
