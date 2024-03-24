@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dafne</h1>
 <h3 align="center">An industrial computer engineer student with major in physics that trusts her google calendar to death</h3>
 
-<img align="right" alt="CompletoMyBeloved" width="280" src="https://media.tenor.com/ZrnZODhWBhgAAAAC/my-beloved-completo.gif">
-
 <h1 align="left"> <img src="https://komarev.com/ghpvc/?username=dafnemami&label=Profile%20views&color=f57900&style=flat"alt="dafnemami" /> </h1>
+<img align="right" alt="CompletoMyBeloved" width="280" src="https://media.tenor.com/ZrnZODhWBhgAAAAC/my-beloved-completo.gif">
 
 - 🔭 I'm working my way to become a great front-end dev
 
