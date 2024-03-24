@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at "someday"
 
-- ⚡ Fun fact **I won a rock, paper, scissors tournament among 40 people.**
+- ⚡ Fun fact: I won a rock, paper, scissors tournament among 40 people.
 
 
 <h3 align="left">Connect with me:</h3>
