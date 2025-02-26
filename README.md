@@ -6,7 +6,7 @@
 
 - 🔭 Working my way to becomw the besr front-end dev
 
-- 🌱 Currently learning **SpotifyAPI**
+- 🌱 Currently learning **SpotifyAPI, RemixJS**
 
 - ⚡ I won a rock, paper, scissors tournament among 40 people in 2015
 
