@@ -4,7 +4,7 @@
 <h1 align="right"> <img src="https://komarev.com/ghpvc/?username=dafnemami&label=Profile%20views&color=f57900&style=flat"alt="dafnemami" /> </h1>
 <img align="right" alt="CompletoMyBeloved" width="280" src="https://media.tenor.com/ZrnZODhWBhgAAAAC/my-beloved-completo.gif">
 
-- 🔭 Working my way to becomw the besr front-end dev
+- 🔭 Working my way to become the best front-end dev
 
 - 🌱 Currently learning **SpotifyAPI, RemixJS**
 
