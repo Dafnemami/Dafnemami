@@ -4,13 +4,13 @@
 <h1 align="right"> <img src="https://komarev.com/ghpvc/?username=dafnemami&label=Profile%20views&color=f57900&style=flat"alt="dafnemami" /> </h1>
 <img align="right" alt="CompletoMyBeloved" width="280" src="https://media.tenor.com/ZrnZODhWBhgAAAAC/my-beloved-completo.gif">
 
-- 🔭 I'm working my way to become a great front-end dev
+- 🔭 Working my way to becomw the besr front-end dev
 
-- 🌱 I’m currently learning **C#, Typescript**
+- 🌱 Currently learning **SpotifyAPI**
 
-- 👨‍💻 All of my projects are available at "someday"
+- ⚡ I won a rock, paper, scissors tournament among 40 people in 2015
 
-- ⚡ Fun fact: I won a rock, paper, scissors tournament among 40 people.
+- ⚽ If you a have a fun soccer game, invite me.
 
 
 <h3 align="left">Languages and Tools:</h3>
