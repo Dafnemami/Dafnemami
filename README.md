@@ -4,9 +4,9 @@
 <h1 align="right"> <img src="https://komarev.com/ghpvc/?username=dafnemami&label=Profile%20views&color=f57900&style=flat"alt="dafnemami" /> </h1>
 <img align="right" alt="CompletoMyBeloved" width="280" src="https://media.tenor.com/ZrnZODhWBhgAAAAC/my-beloved-completo.gif">
 
-- 🔭 Working my way to become the best front-end dev
-
-- 🌱 Currently learning **SpotifyAPI, Remix**
+- 🔭 Working my way to become the most creative SWE
+  
+- 🌱 Currently learning how to take the most advantage from **Claude Code, Supabase**
 
 - ⚡ I won a rock, paper, scissors tournament among 40 people in 2015
 
