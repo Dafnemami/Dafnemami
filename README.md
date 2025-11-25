@@ -1,31 +1,79 @@
-<h1 align="center"> Hi, I'm Dafne 🏁</h1>
-<h3 align="center">An industrial computer engineer student with major in physics that trusts her google calendar to death</h3>
-
-<h1 align="right"> <img src="https://komarev.com/ghpvc/?username=dafnemami&label=Profile%20views&color=f57900&style=flat"alt="dafnemami" /> </h1>
-
-- 🔭 Working my way to become the most creative SWE
+<div align="center">
   
-- 🌱 Currently learning how to take the most advantage from **Claude Code, Supabase**
+# Hey there, I'm Dafne 👋
 
-- ⚡ I won a rock, paper, scissors tournament among 40 people in 2015
+### Industrial Computer Engineer | Physics Enthusiast | Software Craftsperson
 
-- ⚽ If you a have a fun soccer game, invite me.
+[![Profile Views](https://komarev.com/ghpvc/?username=dafnemami&label=Profile%20views&color=f57900&style=flat-square)](https://github.com/dafnemami)
 
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="heroku" width="40" height="40"/> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dafnemami&show_icons=true&locale=en&layout=compact" alt="dafnemami" /></p>
+## 🚀 About Me
+
+I'm an industrial computer engineer with a physics major who thrives at the intersection of elegant code and complex problem-solving. I believe great software is built through curiosity, precision, and a healthy obsession with well-structured systems (and yes, my Google Calendar knows everything).
+```typescript
+const dafne = {
+  currentFocus: "Building scalable, creative solutions",
+  learning: ["Claude Code", "Supabase", "Advanced system design"],
+  funFact: "Undefeated rock-paper-scissors champion (2015)",
+  lookingFor: "Challenging projects & pickup soccer games ⚽"
+};
+```
+
+---
+
+## 💻 Tech Stack
+
+**Languages**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools & Platform**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dafnemami&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+</div>
+
+---
+
+## 🎯 What Drives Me
+
+- 🔬 Applying physics-based thinking to software architecture
+- 🎨 Creating solutions that are both functional and beautifully engineered
+- 🌱 Constantly learning and experimenting with emerging technologies
+- 🤝 Collaborating on projects that make a real impact
+
+---
+
+<div align="center">
+  
+### 💬 Let's Connect
+
+Looking for someone who combines technical depth with creative problem-solving?  
+Let's build something extraordinary together.
+
+**⚡ Pro tip:** I also accept challenges in rock-paper-scissors 🪨📄✂️
+
+</div>
