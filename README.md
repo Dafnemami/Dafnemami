@@ -71,8 +71,6 @@ const dafne = {
 
 <div align="center">
   
-### 💬 Let's Connect
-
 Send me an email dafne.arriagada@uc.cl.
 Let's build something extraordinary together. 
 
