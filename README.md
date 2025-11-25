@@ -16,9 +16,9 @@ I'm an industrial computer engineer with a physics major who thrives at the inte
 ```typescript
 const dafne = {
   currentFocus: "Building scalable, creative solutions",
-  learning: ["Claude Code", "Supabase", "Advanced system design"],
+  learning: ["Claude Code", "AWS Infraestructure", "System Design"],
   funFact: "Undefeated rock-paper-scissors champion (2015)",
-  lookingFor: "Challenging projects & pickup soccer games ⚽"
+  lookingFor: "Challenging projects & great work enviroment & pickup soccer games ⚽"
 };
 ```
 
@@ -73,8 +73,8 @@ const dafne = {
   
 ### 💬 Let's Connect
 
-Looking for someone who combines technical depth with creative problem-solving?  
-Let's build something extraordinary together.
+Send me an email dafne.arriagada@uc.cl.
+Let's build something extraordinary together. 
 
 **⚡ Pro tip:** I also accept challenges in rock-paper-scissors 🪨📄✂️
 
